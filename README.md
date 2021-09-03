@@ -1,8 +1,8 @@
 
 <head> 
-
- <!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"> 
   
+<link href="mobile.css" rel="stylesheet" type="text/css" media="handheld" />
+ 
 <meta name="Description" content="Opis Twojej strony dla wyszukiwarek" /> 
 
 <meta name="Keywords" content="Tu słowa kluczowe rozdzielone przecinkami dla wyszukiwarek" /> 
