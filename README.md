@@ -19,7 +19,20 @@
 
 <body>
 
-  <div data-role="page" id="strona1">
+<div id="m-menu">
+<img border="0" src="images/rama.gif" alt="stdarek">
+<h2 class="hide">Site menu:</h2>
+<a class="m-menu-tab-aktywny" href="index.html">Główna</a><span class="hide"> | </span>
+<a class="m-menu-tab" href="#">2 zakładka</a><span class="hide"> | </span>
+<a class="m-menu-tab" href="#">3 zakładka</a><span class="hide"> | </span>
+<a class="m-menu-tab" href="#">4 zakładka</a><span class="hide"> | </span>
+<a class="m-menu-tab" href="#">5 zakładka</a><span class="hide"> | </span>
+<a class="m-menu-tab" href="#">6 zakładka</a><span class="hide"> | </span>
+<a class="m-menu-tab" href="#">7 zakładka</a><span class="hide"> | </span>
+<a class="m-menu-tab" href="#">8 zakładka</a>
+</div>
+ 
+ <div data-role="page" id="strona1">
 
 <header data-role="header" class="ui-bar-a ui-header">
   
