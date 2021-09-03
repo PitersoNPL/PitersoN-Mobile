@@ -24,6 +24,11 @@
 <header data-role="header" class="ui-bar-a ui-header">
  
 
+<div id="pojemnik">
+<div id="logo">
+<h1><a href="index.html">Nazwa firmy</a></h1>
+</div>
+ 
 <div id="m-menu">
 <img border="0" src="images/rama.gif" alt="stdarek">
 <h2 class="hide">Site menu:</h2>
