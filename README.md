@@ -22,25 +22,6 @@
  <div data-role="page" id="strona1">
 
 <header data-role="header" class="ui-bar-a ui-header">
- 
-
-<div id="pojemnik">
-<div id="logo">
-<h1><a href="index.html">Nazwa firmy</a></h1>
-</div>
- 
-<div id="m-menu">
-<img border="0" src="images/rama.gif" alt="stdarek">
-<h2 class="hide">Site menu:</h2>
-<a class="m-menu-tab-aktywny" href="index.html">Główna</a><span class="hide"> | </span>
-<a class="m-menu-tab" href="#">2 zakładka</a><span class="hide"> | </span>
-<a class="m-menu-tab" href="#">3 zakładka</a><span class="hide"> | </span>
-<a class="m-menu-tab" href="#">4 zakładka</a><span class="hide"> | </span>
-<a class="m-menu-tab" href="#">5 zakładka</a><span class="hide"> | </span>
-<a class="m-menu-tab" href="#">6 zakładka</a><span class="hide"> | </span>
-<a class="m-menu-tab" href="#">7 zakładka</a><span class="hide"> | </span>
-<a class="m-menu-tab" href="#">8 zakładka</a>
-</div>
   
 <header data-role="header" class="ui-bar-a ui-header">
 <h1 role="heading" class="ui-title">02.09.2021</h1>
