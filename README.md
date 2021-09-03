@@ -1,7 +1,5 @@
 
 <head> 
-  
-<link href="mobile.css" rel="stylesheet" type="text/css" media="handheld" />
  
 <meta name="Description" content="Opis Twojej strony dla wyszukiwarek" /> 
 
