@@ -18,6 +18,11 @@
 </head> 
 
 <body>
+ 
+ <div data-role="page" id="strona1">
+
+<header data-role="header" class="ui-bar-a ui-header">
+ 
 
 <div id="m-menu">
 <img border="0" src="images/rama.gif" alt="stdarek">
@@ -31,11 +36,6 @@
 <a class="m-menu-tab" href="#">7 zakładka</a><span class="hide"> | </span>
 <a class="m-menu-tab" href="#">8 zakładka</a>
 </div>
- 
- <div data-role="page" id="strona1">
-
-<header data-role="header" class="ui-bar-a ui-header">
-  
   
 <header data-role="header" class="ui-bar-a ui-header">
 <h1 role="heading" class="ui-title">02.09.2021</h1>
